@@ -1,0 +1,6 @@
+#Omtrentlig værdi af konstanterne i Njörd-modellen :
+
+alpha = 144
+beta = 12
+gamma = 31.5
+delta = 3.5
